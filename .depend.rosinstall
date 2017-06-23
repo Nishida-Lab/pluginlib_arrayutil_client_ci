@@ -1,0 +1,4 @@
+- git:
+    local-name: pluginlib_arrayutil_ci
+    uri: https://github.com/Nishida-Lab/pluginlib_arrayutil_client_ci.git
+    version: master
