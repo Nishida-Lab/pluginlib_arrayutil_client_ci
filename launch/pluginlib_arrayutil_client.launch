@@ -1,4 +1,4 @@
 <launch>
-  <node name="pluginlib_arrayutil_client_ci" pkg="pluginlib_arrayutil_client_ci" type="client_node"
+  <node name="pluginlib_arrayutil_client_ci" pkg="pluginlib_arrayutil_client_ci" type="client_node_ci"
    output="screen" />
 </launch>

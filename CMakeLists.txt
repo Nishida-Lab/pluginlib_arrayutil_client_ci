@@ -17,6 +17,6 @@ include_directories(
 )
 
 # Declare a C++ executable
-add_executable(client_node src/client_node.cpp src/pluginlib_arrayutil_client.cpp)
-target_link_libraries(client_node ${catkin_LIBRARIES})
+add_executable(client_node_ci src/client_node.cpp src/pluginlib_arrayutil_client.cpp)
+target_link_libraries(client_node_ci ${catkin_LIBRARIES})
 
