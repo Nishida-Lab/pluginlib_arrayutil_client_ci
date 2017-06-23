@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(pluginlib_arrayutil_client)
+project(pluginlib_arrayutil_client_ci)
 
 find_package(catkin REQUIRED COMPONENTS
   pluginlib
   roscpp
-  pluginlib_arrayutil
+  pluginlib_arrayutil_ci
 )
 
 catkin_package(

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>pluginlib_arrayutil_client</name>
+  <name>pluginlib_arrayutil_client_ci</name>
   <version>0.0.0</version>
-  <description>The pluginlib_arrayutil_client package</description>
+  <description>The pluginlib_arrayutil_client_ci package</description>
 
   <maintainer email="p595201m@mail.kyutech.jp">Masaru Morita</maintainer>
 
@@ -11,5 +11,5 @@
   <buildtool_depend>catkin</buildtool_depend>
   <depend>pluginlib</depend>
   <depend>roscpp</depend>
-  <build_depend>pluginlib_arrayutil</build_depend>
+  <build_depend>pluginlib_arrayutil_ci</build_depend>
 </package>
